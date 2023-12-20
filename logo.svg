@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 473.2 187.8" style="enable-background:new 0 0 473.2 187.8;" xml:space="preserve">
+	 viewBox="0 0 843.5 187.8" style="enable-background:new 0 0 843.5 187.8;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFCD34;}
 	.st1{font-family:'AkiraExpanded-SuperBold';}
-	.st2{font-size:24.6997px;}
+	.st2{font-size:125.8747px;}
 </style>
 <g>
 	<path class="st0" d="M91.4,4.8c-16,0-31,4.3-43.9,11.8c7.6,13.7,10,30.8,26,46.5c1.2,1.2,2.6,2.4,3.9,3.5
@@ -21,5 +21,5 @@
 		c-1.1-1.1-2.1-2.3-3.3-3.4C55.7,50.8,40.5,39.7,28.1,31.9C12.7,48,3.2,69.8,3.2,93.9c0,49.2,39.5,89.1,88.2,89.1
 		s88.2-39.9,88.2-89.1S140.1,4.8,91.4,4.8z"/>
 </g>
-<text transform="matrix(0.8012 0 0 1 186.9444 107.8219)" class="st0 st1 st2">Border Generator</text>
+<text transform="matrix(0.3588 0 0 1 185.055 138.7894)" class="st0 st1 st2">Border Generator</text>
 </svg>
